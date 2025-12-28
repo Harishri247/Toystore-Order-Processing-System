@@ -8,7 +8,6 @@ com\examly\springapp\model\CustomerReturn.class
 com\examly\springapp\repository\ProductRepo.class
 com\examly\springapp\service\ProductServiceImpl.class
 com\examly\springapp\service\SupplierServiceImpl.class
-com\examly\springapp\exception\ResourceNotFoundException.class
 com\examly\springapp\service\PurchaseOrderService.class
 com\examly\springapp\service\ProductService.class
 com\examly\springapp\service\PurchaseOrderServiceImpl.class

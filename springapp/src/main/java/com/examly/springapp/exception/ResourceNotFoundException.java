@@ -1,8 +1,7 @@
-package com.examly.springapp.exception;
+// package com.examly.springapp.exception;
 
-import org.springframework.web.bind.annotation.RestControllerAdvice;
-
-@RestControllerAdvice
-public class ResourceNotFoundException {
-    
-}
+// public class ResourceNotFoundException extends RuntimeException {
+//     public ResourceNotFoundException(String message) {
+//         super(message);
+//     }
+// }
